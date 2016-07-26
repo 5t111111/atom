@@ -2,7 +2,7 @@
 
 > Yet another dark theme for [Atom](https://atom.io).
 
-![vanian.png](./screenshots/vanian.png)
+![vanian.png](https://raw.githubusercontent.com/5t111111/vanian-theme/master/screenshots/vanian.png)
 
 This is a fork of [Dracula theme for Atom](https://github.com/dracula/atom).
 
