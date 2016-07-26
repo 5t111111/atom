@@ -1,4 +1,4 @@
-# Vampire theme for [Atom](https://atom.io)
+# Vanian theme for [Atom](https://atom.io)
 
 > Yet another dark theme for [Atom](https://atom.io).
 
