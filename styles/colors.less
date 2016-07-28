@@ -1,22 +1,26 @@
-@very-dark-gray: #282a36; // Background
-@dark-gray: #44475a; // Current Line & Selection
-@gray: #666666;
-@light-gray: #999999;
-@very-light-gray: #e8e8e2; // Foreground
-@blue: #6272a4; // Comment
+// Config -----------------------------------
+@syntax-hue:          231;
+@syntax-saturation:   14%;
+@syntax-brightness:   18%;
 
-@cyan: #9aedfe;
-@soft-cyan: #8be9fd;
-@green: #5af78e;
-@orange: #ffb86c;
-@pink: #ff92d0;
-@purple: #caa9fa;
-@red: #ff6e67;
-@yellow: #f4f99d;
-@dark-yellow: #f4f99d;
+// Colors
+@very-dark-gray:  hsl(@syntax-hue, @syntax-saturation, @syntax-brightness); // Background
+@dark-gray:       #44475a; // Current Line & Selection
+@gray:            #666666;
+@light-gray:      #999999;
+@very-light-gray: hsl(@syntax-hue, 24%, 82%); // Foregoround
+@blue:            hsl(225, 34%, 56%); // Comment
+@cyan:            hsl(190, 66%, 55%);
+@soft-cyan:       #66d9ef;
+@green:           hsl(135, 85%, 68%);
+@orange:          hsl( 39, 74%, 68%);
+@pink:            hsl(325, 72%, 73%);
+@purple:          hsl(264, 89%, 77%);
+@red:             #ff5555;
+@yellow:          hsl( 64, 52%, 66%);
+@dark-yellow:     #E6DB74;
+@sandstone:       #cfcfc2;
 
-@sandstone: #cfcfc2;
-
-@lace: #f8f8f0;
-@white: #ffffff;
-@black: #000000;
+@lace:            #f8f8f0;
+@white:           #ffffff;
+@black:           #000000;
