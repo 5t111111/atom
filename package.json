@@ -1,7 +1,7 @@
 {
   "name": "vanian-syntax",
   "theme": "syntax",
-  "version": "1.2.15",
+  "version": "1.2.16",
   "description": "A dark theme for Atom",
   "repository": "https://github.com/5t111111/vanian-syntax",
   "license": "MIT",
